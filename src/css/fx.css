@@ -1,5 +1,3 @@
-#contenido { display:block; }
-
 @media only screen and (orientation:portrait){
     #contenido {  
         -webkit-transform: rotate(90deg);
